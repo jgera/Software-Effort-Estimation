@@ -1,4 +1,4 @@
-# Effort & Cost Estimation from Code Scanning
+# Software Effort & Cost Estimation
 
 A command-line tool that analyzes a source code repository using **Radon** and **Lizard**, then generates an executive-level effort and cost estimation report.
 
