@@ -1,5 +1,3 @@
-
-
 # Effort & Cost Estimation from Code Scanning
 
 A command-line tool that analyzes a source code repository using **Radon** and **Lizard**, then generates an executive-level effort and cost estimation report.
@@ -336,8 +334,6 @@ Not for:
 - CI integration support
 
 ---
-
-# Effort & Cost Estimation from Code Scanning
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
