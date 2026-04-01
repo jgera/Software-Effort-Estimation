@@ -340,7 +340,7 @@ Not for:
 
 ## License
 
-MIT License (or specify your preferred license)
+
 
 ---
 
